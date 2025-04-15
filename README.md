@@ -7,3 +7,6 @@ This Have 2 basic routes:
 - /login
 - /register
 
+Please see MASTER branch to get proyect files..
+
+This project complies with the MVC specifications of the software development industry.
